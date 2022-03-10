@@ -1,0 +1,19 @@
+{
+  "name": "lottery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Augusto E Ringuelet",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.3",
+    "dotenv": "^16.0.0",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^9.2.1",
+    "solc": "^0.8.9",
+    "web3": "^1.7.1"
+  }
+}
